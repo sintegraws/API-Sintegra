@@ -1,4 +1,4 @@
-![untitled](https://user-images.githubusercontent.com/47832154/74065808-756a0c00-49d4-11ea-98d2-7f9dc072cf06.png)
+![untitled](https://user-images.githubusercontent.com/47832154/74066266-954dff80-49d5-11ea-9fc5-c1a2bbc41afd.png)
 
 # API-Sintegra
 Recuperar as informações, incluindo a inscrição estadual de uma empresa através do seu CNPJ, utilizando o Site Sintegra WS
